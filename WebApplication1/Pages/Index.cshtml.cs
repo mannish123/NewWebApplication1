@@ -7,7 +7,14 @@ namespace WebApplication1.Pages
     {
         public void OnGet()
         {
+try{
 
+
+}
+catch(Exception ex)
+{
+	throw ex;
+}
         }
     }
 }
